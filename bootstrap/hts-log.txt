@@ -1,0 +1,12 @@
+HTTrack3.48-22+htsswf+htsjava launched on Fri, 05 Aug 2016 19:35:53 at http://www.w3schools.com/bootstrap/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.w3schools.com/bootstrap/ -O1 "C:\My Web Sites\bootstrap" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:47:53	Error: 	"Not Found" (404) at link www.w3schools.com/bootstrap/POST (from www.w3schools.com/lib/w3schools_footer.js)
+
+HTTrack Website Copier/3.48-22 mirror complete in 12 minutes 1 seconds : 958 links scanned, 956 files written (20695336 bytes overall) [7269477 bytes received at 10082 bytes/sec], 19727439 bytes transferred using HTTP compression in 923 files, ratio 30%, 1.0 requests per connection
+(1 errors, 0 warnings, 0 messages)
